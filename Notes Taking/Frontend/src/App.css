@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  padding-bottom: 1%;
+}
+
+.Left {
+  padding-left: 1.5%;
+}
+
+.ErrorPara{
+  font-size: small;
+  color:#ffffff;
+}
+
+body{
+  background-color: lightcoral !important;
+}
+
+.headingTitle{
+  color : #ffffff;
+}
+
+.wholeList{
+  background-color:#ffffff;
+  height:65px;
+  padding:0.5%;
+}
+
+.Left{
+  float:left;
+}
+
+.itemTitle{
+  padding-top:1.5%;
+}
+
+.itemDesc{
+  display:none;
+}
+
+.details{
+  float:right; 
+  font-size:small;
+}
+
+.btnRight{
+  float:right;
+  padding-top:3%;
+}
+
+.bottomList{
+  padding:0.5%;
+}
