@@ -1,0 +1,32 @@
+
+.trCriss, .tdCriss{
+    border: 3px solid black !important;
+    margin : auto;
+    padding-top: 40px !important;
+    height : 100px !important;
+  }
+  
+  .tdCriss{
+    width: 33%
+  }
+  
+  table{
+    border-style: hidden;
+    background-color: #f6ffd9;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+  }
+
+  .containerGame{
+    position: absolute !important;
+    width: 40% !important;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%, -50%) !important;
+    font-weight: 550;
+  }
+
+  button{
+    background-color: #f6ffd9;
+  }
+
+  

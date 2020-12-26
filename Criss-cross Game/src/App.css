@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  padding-bottom: 1%;
+}
+
+.Left {
+  padding-left: 1.5%;
+}
+
+.ErrorPara {
+  font-size: small;
+  color: red;
+}
+
+.paraCSS {
+  background-color: #f6ffd9;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.paraCSSEnd {
+  padding-right: 0% !important;
+  padding-left: 0% !important;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color:#f6ffd9;
+  margin-bottom: 0% !important;
+}
