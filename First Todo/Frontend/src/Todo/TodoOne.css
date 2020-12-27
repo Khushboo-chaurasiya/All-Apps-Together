@@ -1,0 +1,54 @@
+.Centered {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.textInput {
+    background-color:black !important;
+    color:white !important; 
+    text-align:center
+}
+
+.table th, .table td {
+    border-bottom: 0px !important;
+    border-top : 0px !important;
+    border : 2px solid black !important;
+}
+
+.tableCenter{
+    align-items:center;
+    justify-content:center;
+}
+
+.table{
+    margin-bottom: 2% !important;
+}
+
+button{
+    background-color: yellow !important;
+    color : black !important;
+}
+
+.wholeDiv{
+    height:100vh;
+    background-color:#FFA190;
+    width:100%;
+}
+.contain{
+    background-color:yellow;
+}
+.tomatoBack{
+    background-color:#FFA190;
+}
+.tableDiv{
+    margin: auto;
+    width:50% !important;
+    text-align:center;
+    background-color:#FFA190;
+}
+.bottomBtn{
+    background-color:yellow;
+    border-width:inherit;
+    color:black;
+}
