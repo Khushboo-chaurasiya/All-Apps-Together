@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "5fe7f299f1210f3b6c1e216f",
+        "Query": "What is National Tree of India?",
+        "A": "Mango",
+        "B": "Pipal",
+        "C": "Banyan",
+        "D": "Neem",
+        "ans": "Banyan",
+        "__v": 0
+    },
+    {
+        "_id": "5fe7f352f1210f3b6c1e2170",
+        "Query": "What is National Dance of India?",
+        "A": "Hip Hop",
+        "B": "Kathak",
+        "C": "Bharatnatyam",
+        "D": "None of these",
+        "ans": "Bharatnatyam",
+        "__v": 0
+    },
+    {
+        "_id": "5fe7f38af1210f3b6c1e2171",
+        "Query": "What is National Dish of India?",
+        "A": "Samosha",
+        "B": "Khichadi",
+        "C": "Dal Chawal",
+        "D": "Aloo paratha",
+        "ans": "Khichadi",
+        "__v": 0
+    },
+    {
+        "_id": "5fe7f3bef1210f3b6c1e2172",
+        "Query": "What is National Fruit of India?",
+        "A": "Apple",
+        "B": "Orange",
+        "C": "Mango",
+        "D": "Grapes",
+        "ans": "Mango",
+        "__v": 0
+    },
+    {
+        "_id": "5fe7f46ef1210f3b6c1e2173",
+        "Query": "What is National Anthem of India?",
+        "A": "Vande Matram",
+        "B": "Jan gan mann",
+        "C": "Om jay jagdish",
+        "D": "Om Shanti Om",
+        "ans": "Jan gan mann",
+        "__v": 0
+    },
+    {
+        "_id": "5fe7f4a0f1210f3b6c1e2174",
+        "Query": "What is National Dress of India?",
+        "A": "Saree",
+        "B": "Frok",
+        "C": "Dress",
+        "D": "Shirt pant",
+        "ans": "Saree",
+        "__v": 0
+    }
+]

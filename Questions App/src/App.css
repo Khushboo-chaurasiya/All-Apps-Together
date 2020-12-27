@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  padding-top: 0% !important;
+  margin-top: 0% !important;
+}
+
+
+.ErrorPara {
+  font-size: small;
+  color: red;
+}
+
+.paraCSS {
+  background-color: #e5f4fe;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-bottom: 80px !important;
+}
+
+.paraCSSEnd {
+  padding-right: 0% !important;
+  padding-left: 0% !important;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color:#e5f4fe;
+  margin-bottom: 0% !important;
+}
+
+body{
+  background-image: url(./Images/back.jpg);
+}
+

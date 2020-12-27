@@ -1,0 +1,31 @@
+.container{
+    margin-left: 0% !important;
+    background-color: #e5f4fe;
+    margin-top: 2%;
+    margin-bottom: 0% !important;
+    position: relative;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%, -50%) !important;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+    font-weight: 550;
+    padding: 1%;
+}
+
+.paraCSSEnd{
+    position: sticky;
+}
+
+button{
+    width: 100px;
+    margin-top: 0% !important;
+    margin-bottom: 2% !important;
+    background-color: #e5f4fe !important;
+    color: black !important;
+    border: 2px solid black !important;
+    font-weight: 700 !important;
+    
+}
+.whole{
+    margin-top: 7% !important;
+}
