@@ -1,0 +1,138 @@
+
+*{
+  box-sizing: border-box !important;
+  margin-right: 0% !important;
+}
+.App {
+  text-align: center;
+  padding-bottom: 1%;
+}
+.ErrorPara{
+  font-size: small;
+  color: red;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.paraCSS {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: lightcoral;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  z-index:1;
+}
+
+.paraCSSEnd {
+  padding-right: 0% !important;
+  padding-left: 0% !important;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color:lightcoral;
+  margin-bottom: 0% !important;
+}
+
+.leftArrow{
+  font-size: 15px;
+  cursor: pointer;
+}
+
+
+.row{
+  margin-top: 70px !important;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 70px !important;
+}
+
+.card{
+  box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+  margin-top: 1%;
+  margin-bottom: 1%;
+  width: 270px !important;
+}
+
+.cardDetails{
+  background-color: rgb(245, 212, 212);
+  position: absolute !important;
+  width: 50% !important;
+  top : 50%;
+  left : 50%;
+  transform: translate(-50%, -50%) !important;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+  display: flex;
+}
+
+.cardChota{
+  background-color:  rgb(245, 212, 212);
+  position: absolute !important;
+  padding:2% !important;
+  width: 20% !important;
+  top : 50%;
+  left : 50%;
+  transform: translate(-50%, -50%) !important;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+  display: flex;
+  justify-content: center;
+}
+
+.cardMedium{
+  background-color:  rgb(245, 212, 212);
+  position: absolute !important;
+  padding:2% !important;
+  width: 22% !important;
+  top : 50%;
+  left : 50%;
+  transform: translate(-50%, -50%) !important;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+  display: flex;
+  justify-content: center;
+}
+
+img{
+  height:35vh;
+}
+
+.detailsImg{
+  height : 60vh !important;
+  width : 100% !important;
+  
+}
+
+.btn{
+  margin-top: 20px !important;
+  margin: auto !important;
+  background-color: lightcoral !important;
+  border: 2px solid black !important;
+  margin-top: 20px !important;
+}
+
+.floatLeft{
+  height : 60vh !important;
+  width : 50% !important;
+  
+}
+
+.floatRight{
+  width: 50%;
+  margin: 5%;
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content: center;
+  
+}
+
+body{
+  background-image: url(./Images/back.jpg);
+}
